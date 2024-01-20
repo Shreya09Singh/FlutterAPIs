@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+A new Flutter project where I've used wheather API 
 
 ## Getting Started
 
